@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Example.txt : MonoBehaviour
+public class Example : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -13,6 +13,6 @@ public class Example.txt : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // Update is called once per frame    // Update is called once per frame    // Update is called once per frame
     }
 }
